@@ -2,7 +2,7 @@
 Offer optimization using machine learning techniques with Starbucks dataset.
 
 # Files:
-Starbucks.ipynb : contains code
+Starbucks.ipynb : contains code <br>
 data/portfolio.json : contains offers metadata
 data/profile.json : contains customers metadata
 data/transcript.json : contains interaction customer-offers
