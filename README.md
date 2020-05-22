@@ -15,5 +15,6 @@ You can run this ipynb with jupyter notebook or take it to Google Colab.
 <img src="summary.png"/>
 
 <br/>
-# Blog <br/>
+
+<h2>Blog<h2> <br/>
 https://medium.com/@prashantjadiya/offer-optimization-using-machine-learning-46a1f5d1b59b
