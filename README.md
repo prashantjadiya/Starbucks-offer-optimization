@@ -13,3 +13,6 @@ You can run this ipynb with jupyter notebook or take it to Google Colab.
 #Results
 
 <img src="summary.png"/>
+
+<br/>
+# Blog : https://medium.com/@prashantjadiya/offer-optimization-using-machine-learning-46a1f5d1b59b
