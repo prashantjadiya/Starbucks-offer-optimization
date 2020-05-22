@@ -11,4 +11,5 @@ data/transcript.json : contains interaction customer-offers <br>
 You can run this ipynb with jupyter notebook or take it to Google Colab.
 <br>
 #Results
-<img src="summary.png">
+
+<img src="summary.png"/>
