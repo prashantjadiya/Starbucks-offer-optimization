@@ -3,12 +3,12 @@ Offer optimization using machine learning techniques with Starbucks dataset.
 
 # Files:
 Starbucks.ipynb : contains code <br>
-data/portfolio.json : contains offers metadata
-data/profile.json : contains customers metadata
-data/transcript.json : contains interaction customer-offers
+data/portfolio.json : contains offers metadata <br>
+data/profile.json : contains customers metadata <br>
+data/transcript.json : contains interaction customer-offers <br>
 
 # How to Run
 You can run this ipynb with jupyter notebook or take it to Google Colab.
-
+<br>
 #Results
 <img src="summary.png">
